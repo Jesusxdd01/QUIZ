@@ -1,0 +1,930 @@
+[
+  {
+    "question": "¿Cuál de las siguientes asignaciones debe realizarse para convertir grupos de mosaicos de SAP Fiori en espacios de SAP Fiori?",
+    "options": [
+      "Asignar secciones a espacios",
+      "Asignar páginas a espacios",
+      "Asignar mosaicos a páginas",
+      "Asignar espacios a páginas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿Que se crea cuando se contabiliza una entrada de mercancías valorada para los materiales de consumo?",
+    "options": [
+      "Documento de factura de proveedor",
+      "Documento de libro de materiales",
+      "Documento CO",
+      "Compromiso"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "¿Qué procesos empresariales globales se incluyen con SAP S/4HANA en el contexto de Intelligent Enterprise? (3 respuestas)",
+    "options": [
+      "De la solicitud al servicio",
+      "Del registro al informe",
+      "Del abastecimiento al pago",
+      "Del diseño a la compilación"
+    ],
+    "correctIndices": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "question": "¿Cuál de los siguientes son modos de selección para ejecutar MRP? (3 respuestas)",
+    "options": [
+      "MRP clásica",
+      "MRP regenerativa",
+      "MRP Live",
+      "Procesamiento de pedidos atrasados",
+      "MRP predictiva"
+    ],
+    "correctIndices": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "question": "¿Qué ocurre cuando se planifica una actividad de proyecto interno?",
+    "options": [
+      "Se generan solicitudes de compra",
+      "Se ejecuta el servicio",
+      "Se comprometen los servicios",
+      "Se registran los costes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "¿Qué actividades puede realizar un gestor con Manager Self-Service? (2 respuestas)",
+    "options": [
+      "Gestionar presupuesto",
+      "Introducir hoja de hora de trabajo",
+      "Inscribirse en beneficios",
+      "Controlar costes"
+    ],
+    "correctIndices": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "¿Qué función compromete los fondos asignados al presupuesto de un elemento PEP?",
+    "options": [
+      "Contabilidad de centro de coste",
+      "Cuenta de resultados",
+      "Procesamiento de liquidación",
+      "Control de disponibilidad"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "¿Cuál es el resultado de liquidar una orden previsional? (2 respuestas)",
+    "options": [
+      "Una necesidad independiente planificada",
+      "Una solicitud de pedido",
+      "Un pedido",
+      "Una orden de fabricación"
+    ],
+    "correctIndices": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "¿Qué objeto de controlling siempre es un objeto estadístico?",
+    "options": [
+      "Centro de coste",
+      "Orden CO",
+      "Centro de beneficio",
+      "Objeto PA"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "¿Qué estrategia de BOP tiene la primera prioridad y se utiliza para liberar stock confirmado para priorizar otras órdenes?",
+    "options": [
+      "Perder",
+      "Obtener",
+      "Ganar",
+      "Rellenar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Durante el proceso de fabricación ¿Qué pasos pueden ejecutarse en el proceso de fondo? (3 respuestas)",
+    "options": [
+      "Confirmación de la orden",
+      "Creación de la orden",
+      "Determinación WIP",
+      "Liberación de la orden"
+    ],
+    "correctIndices": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "¿Para qué orden se contabiliza la salida de mercancías en fabricación por pedido?",
+    "options": [
+      "Orden de la fabricación",
+      "Pedido de traslado",
+      "Pedido de cliente",
+      "Orden de entrega saliente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "¿Qué tareas se llevan a cabo para la gestión de informes externa? (2 respuestas)",
+    "options": [
+      "Calcular desviaciones de fabricación",
+      "Crear un balance plan/real de centro de coste",
+      "Gestionar cuentas a cobrar",
+      "Crear una cuenta de pérdidas y ganancias"
+    ],
+    "correctIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "¿Cuáles de los siguientes elementos se pueden actualizar en un aviso de mantenimiento? (3 respuestas)",
+    "options": [
+      "Equipo",
+      "Necesidad de capacidad",
+      "Causa del daño",
+      "Planificación de necesidades",
+      "Tarea"
+    ],
+    "correctIndices": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "question": "¿Qué herramienta de planificación prioriza la previsión de cliente y planifica reservas de inventario?",
+    "options": [
+      "Simulación y resolución MRP",
+      "MRP en función de la demanda (DDMRP)",
+      "Planificación basada en restricciones (PP/DS)",
+      "Procesamiento de atrasos (BOP)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Al crear un número de almacén, ¿Qué elementos organizativos se deben asignar? (2 respuestas)",
+    "options": [
+      "Centro",
+      "Almacén",
+      "Sociedad",
+      "Puesto de expedición"
+    ],
+    "correctIndices": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "¿Cuáles son los resultados de una salida de mercancías para una orden de fabricación? (3 respuestas)",
+    "options": [
+      "Se crea una tarea en almacén",
+      "Se reduce la reserva de material",
+      "Los costes reales se actualizan en la orden CO",
+      "Se crea un documento de material ledger",
+      "Se contabilizan los costes de mano de obra interna"
+    ],
+    "correctIndices": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "¿Qué cuentas de mayor reciben contabilizaciones en la entrada de mercancías? (2 respuestas)",
+    "options": [
+      "Cuenta de impuestos",
+      "Cuenta EM/RF",
+      "Cuenta asociada de proveedor",
+      "Cuenta de consumo"
+    ],
+    "correctIndices": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "¿Cuándo se tiene un procesamiento de pedidos pendiente?",
+    "options": [
+      "Cuando el advanced avalaible to promise (aATP) no está disponible",
+      "Cuando una cantidad de pedido no se ha confirmado completamente",
+      "Cuando se ejecuta una salida de mercancías",
+      "Cuando se planifica el transporte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Al contabilizar una factura de coche de empresa, ¿qué cuentas se afectan? (3 respuestas)",
+    "options": [
+      "Cuenta de materiales",
+      "Cuenta de cliente",
+      "Cuenta de proveedor",
+      "Cuenta de activos",
+      "Cuenta de impuestos"
+    ],
+    "correctIndices": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "question": "¿Qué acción actualiza la cuenta de resultados analítica?",
+    "options": [
+      "Crear una entrega de salida",
+      "Grabar el documento de facturación",
+      "Contabilizar la salida de mercancías",
+      "Contabilizar el pago de cliente"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿Qué elementos aceleran la experiencia humana con datos X y O? (2 respuestas)",
+    "options": [
+      "Predicciones de Machine learning",
+      "IA de conversión",
+      "Internet de las cosas (loT)",
+      "Blockchain"
+    ],
+    "correctIndices": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "¿Cuál de las siguientes son categorías de interlocutor comercial en SAP S/4HANA? (3 respuestas)",
+    "options": [
+      "Grupo",
+      "Corporación",
+      "Organización",
+      "Persona",
+      "Individual"
+    ],
+    "correctIndices": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "¿Qué solución mejora el aprovisionamiento de servicios externos?",
+    "options": [
+      "SAP Ariba",
+      "SAP Success Factors",
+      "SAP Concur Travel and Expense",
+      "SAP Fieldglass"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "¿Qué unidades organizativas crea FI en SAP S/4HANA Finance? (2 respuestas)",
+    "options": [
+      "Segmento",
+      "Sociedad CO",
+      "Sociedad",
+      "Sociedad PA"
+    ],
+    "correctIndices": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "¿Qué propiedades tiene la clase de condición en entradas de condiciones? (2 respuestas)",
+    "options": [
+      "Escalas",
+      "Organización de ventas",
+      "Periodos de validez",
+      "Moneda"
+    ],
+    "correctIndices": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "¿Cuál es el resultado de la contabilización de una factura de proveedor?",
+    "options": [
+      "La cuenta del proveedor se limpia de partidas abiertas",
+      "Se actualiza el historial de pedido de compras",
+      "El pago de proveedor se ha contabilizado",
+      "Se genera el documento de material leadger"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿Qué actividades crean un documento de contabilidad financiera (FI)? (3 respuestas)",
+    "options": [
+      "Ejecutar una ejecución de amortización",
+      "Contabilizar una salida de mercancías para orden de producción",
+      "Transferir stock de almacén a almacén",
+      "Crear un pedido de cliente",
+      "Transferir stock a otra sociedad"
+    ],
+    "correctIndices": [
+      0,
+      1,
+      4
+    ]
+  },
+  {
+    "question": "¿Cuáles son ventajas de SAP Business Technology Platform? (3 respuestas)",
+    "options": [
+      "El entorno de desarrollo de aplicaciones unificado",
+      "Los workflows flexibles",
+      "Utiliza las últimas innovaciones en aprendizaje automático",
+      "Utiliza espacios de SAP Fiori",
+      "Optimización para cualquier software"
+    ],
+    "correctIndices": [
+      0,
+      2,
+      1
+    ]
+  },
+  {
+    "question": "¿Qué número organizativo de RRHH está asignado directamente a una sociedad?",
+    "options": [
+      "División personal",
+      "Info tipo",
+      "Unidad organizativa",
+      "Posición"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "¿Qué se debe hacer en un pedido para comprar un material a un centro de coste?",
+    "options": [
+      "Introducir un tipo de posición de pedido",
+      "Introducir un almacén",
+      "Introducir un tipo de actividad para el centro de coste",
+      "Introducir un tipo de imputación"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "¿Qué sucede al contabilizar una salida de mercancías en una entrega? (3 respuestas)",
+    "options": [
+      "Se actualiza la lista de facturas pendientes",
+      "Se crea una factura",
+      "Se crea un documento de material leadger",
+      "Se actualizan las cantidades de inventario",
+      "Se crea una orden de entrega saliente EWM"
+    ],
+    "correctIndices": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "¿Durante qué paso del proceso se contabilizan los documentos de FI al comprar contra un centro de coste?",
+    "options": [
+      "Contabilizar una entrada de mercancías valorada",
+      "Entrega entrante a almacén",
+      "Guardar un pedido",
+      "Autorización de solicitud de pedido"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "¿Qué dato maestro se utiliza para calcular la estructura de cantidad en planificación de costes? (2 respuestas)",
+    "options": [
+      "Hoja de ruta",
+      "Centro de coste",
+      "Lista de materiales",
+      "Puesto de trabajo"
+    ],
+    "correctIndices": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "¿Para qué posición de partida individual debe introducir un tipo de transacción?",
+    "options": [
+      "Cuenta de impuestos",
+      "Cuenta de cliente",
+      "Cuenta de materiales",
+      "Cuenta de activos"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "¿Por qué debe introducir sus horas de trabajo utilizando CATS? (3 respuestas)",
+    "options": [
+      "Para planificar el tiempo",
+      "Para mantener un absentismo",
+      "Para confirmar actividades",
+      "Para registrar las horas extras",
+      "Para solicitar un absentismo"
+    ],
+    "correctIndices": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "En un almacén, ¿Qué representa la ubicación donde se almacenan las mercancías?",
+    "options": [
+      "Almacén",
+      "Ubicación",
+      "Selección de almacenamiento",
+      "Pale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿Cuál es la secuencia típica de pasos en mantenimiento correctivo?",
+    "options": [
+      "Crear aviso -> Programar aviso -> Confirmar orden -> Cerrar orden",
+      "Crear aviso -> Planificar orden -> Liberar orden -> Confirmar orden -> Cerrar orden",
+      "Crear aviso -> Planificar -> Ejecutar orden -> Cerrar orden",
+      "Crear lista de tareas -> Crear aviso -> Programar servicio -> Liberar orden"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿En qué pasos de gestión de pedidos se realizan contabilizaciones en el libro mayor? (2 respuestas)",
+    "options": [
+      "Crear un pedido de cliente",
+      "Guardar una factura",
+      "Contabilizar una salida de mercancías",
+      "Crear una entrega de salida"
+    ],
+    "correctIndices": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "¿Qué otro registro de datos maestros se puede crear automáticamente al crear un equipo?",
+    "options": [
+      "Ubicación técnica",
+      "LMat de mantenimiento",
+      "Activo",
+      "Material"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "¿Para qué objeto se planifica precios de actividad?",
+    "options": [
+      "Centro de coste",
+      "Orden CO",
+      "Elemento PEP",
+      "Puesto de trabajo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "¿Cuál es el periodo de tiempo de los ciclos de SAP SuccessFactors?",
+    "options": [
+      "Trimestral",
+      "Anual",
+      "Mensual",
+      "Bianual"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "¿Qué objetos se utilizan para crear un registro info de compras? (3 respuestas)",
+    "options": [
+      "Sociedad",
+      "Grupo de compras",
+      "Proveedor",
+      "Maestro de materiales",
+      "Organizaciones de compras"
+    ],
+    "correctIndices": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "question": "¿Cuáles son las calidades de la suite SAP Intelligent Enterprise? (3 respuestas)",
+    "options": [
+      "Aplicaciones basadas en código",
+      "Análisis incorporado por producto",
+      "Una bandeja de entrada de workflow",
+      "Experiencia de usuario perfecta",
+      "Planos de procesos globales"
+    ],
+    "correctIndices": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "¿Cuál es el resultado de desglose de documentos?",
+    "options": [
+      "Se crea documentos CO adicionales",
+      "Se crean valores adicionales",
+      "Se crean documentos financieros adicionales",
+      "Se crean documentos logísticos adicionales"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿Qué elementos de demanda se evalúan durante una ejecución MRP?",
+    "options": [
+      "Pedido de cliente",
+      "Ordenes planificadas",
+      "Solicitudes de pedido",
+      "Planes de entregas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "¿Qué acción asigna costes reales a un proyecto?",
+    "options": [
+      "Guardar un pedido",
+      "Tomar material del stock",
+      "Verificación de disponibilidad de material",
+      "Liberar un presupuesto de proyecto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿Cuáles opciones se aplican a la estructura de ventas (SD)? (3 respuestas)",
+    "options": [
+      "Una división se puede asignar a más de una organización de ventas",
+      "Se pueden asignar a un canal de distribución a varias organizaciones de ventas",
+      "Una organización de ventas se puede asignar a más de una sociedad",
+      "Una división solo se puede asignar a una organización de ventas"
+    ],
+    "correctIndices": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "question": "¿Qué se puede registrar en la confirmación de cierre de orden de mantenimiento? (3 respuestas)",
+    "options": [
+      "Verificación de la disponibilidad",
+      "Entrada a tiempo",
+      "Materiales",
+      "Documentos de medición"
+    ],
+    "correctIndices": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "¿Qué tipo de aplicaciones SAP Fiori utilizan capacidades de SAP HANA? (2 respuestas)",
+    "options": [
+      "Transaccional",
+      "Analítico",
+      "Hoja informativa",
+      "SAP GUI para HTML"
+    ],
+    "correctIndices": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "¿Qué procedimientos se usan para traslado de stock entre centros? (3 respuestas)",
+    "options": [
+      "Procesamiento en un paso",
+      "Planificación de necesidades de material",
+      "Procedimiento de dos pasos",
+      "Pedido de traslado sin entrega",
+      "Planificación y reorganización de almacén"
+    ],
+    "correctIndices": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "¿Cuál es la unidad organizativa básica de la contabilidad de gestión?",
+    "options": [
+      "Centro de coste",
+      "Sociedad",
+      "Sociedad CO",
+      "Mandante"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "¿Ventaja de pedidos de traslado sobre transferencias simples?",
+    "options": [
+      "Movimientos en un solo paso",
+      "El proceso se supervisa usando el historial del pedido (PO)",
+      "Los costes de entrega se retrasan",
+      "Pedidos generados por MRP se pueden convertir en pedidos de traslado"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿Beneficios de utilizar un interlocutor comercial? (2 respuestas)",
+    "options": [
+      "Se reducen los datos redundantes",
+      "Los datos generales son únicos para cada rol",
+      "Los proveedores se gestionan por separado",
+      "La arquitectura de datos se armoniza"
+    ],
+    "correctIndices": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "¿Qué objetos pueden liquidar mediante una regla de liquidación? (3 respuestas)",
+    "options": [
+      "Orden de fabricación",
+      "Orden de mantenimiento",
+      "Centro de beneficios",
+      "Pedido de cliente",
+      "Elemento PEP"
+    ],
+    "correctIndices": [
+      0,
+      1,
+      4
+    ]
+  },
+  {
+    "question": "¿Qué ocurre cuando una orden de mantenimiento se cierra técnicamente? (3 respuestas)",
+    "options": [
+      "La regla de liquidación se ejecuta",
+      "Las facturas recibidas para la orden se pueden procesar",
+      "Las solicitudes de pedido abiertas se marcan para borrado",
+      "Se contabiliza entrada de tiempo",
+      "Los materiales reservados se liberan de la reserva"
+    ],
+    "correctIndices": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "question": "¿En qué objeto puede liquidar una orden CO?",
+    "options": [
+      "Valores estadísticos",
+      "Activo fijo",
+      "Centro de beneficios",
+      "Equipo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿Cuáles son funciones de SAP EWM? (2 respuestas)",
+    "options": [
+      "Determinación a nivel de ubicación para entrada",
+      "Entrada en stock con ordenes de transporte",
+      "Gestión de stocks a nivel de almacén",
+      "Integración con dispositivos móvil"
+    ],
+    "correctIndices": [
+      0,
+      3
+    ]
+  },
+  {
+    "question": "¿Qué documentos acepta SAP TM para planificar transporte? (3 respuestas)",
+    "options": [
+      "Devoluciones",
+      "Documentos de materiales",
+      "Pedido de traslado de stock",
+      "Entregas entrantes",
+      "Ordenes de trasporte"
+    ],
+    "correctIndices": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "¿Por qué crear un dato maestro de equipos? (2 respuestas)",
+    "options": [
+      "Representar estructuras funcionales",
+      "Evaluar datos técnicos a largo plazo",
+      "Registrar tareas de mantenimiento para evaluación a largo plazo",
+      "Informe del tiempo de uso en ubicación funcional"
+    ],
+    "correctIndices": [
+      1,
+      2
+    ]
+  },
+  {
+    "question": "¿Qué controla una clave de contabilización? (2 respuestas)",
+    "options": [
+      "Admite contabilizaciones sin impuestos",
+      "Contabilización Debe/Haber",
+      "Rango de números del documento",
+      "Tipo de cuenta"
+    ],
+    "correctIndices": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "¿Qué documento crea un comprometido para una orden CO al grabarlo?",
+    "options": [
+      "Orden de mantenimiento",
+      "Orden de fabricación",
+      "Entrada de mercancías",
+      "Pedido"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "¿Cómo se contabilizan costes de mano de obra externa en una actividad red?",
+    "options": [
+      "Por liquidación",
+      "Por la hoja de entrada de servicios",
+      "Por la asignación de actividad",
+      "Por confirmación"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿Qué unidad organizativa debe ampliarse al actualizar el rol de proveedor?",
+    "options": [
+      "Centro",
+      "Organización de compras",
+      "Grupo de compras",
+      "Sociedad"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿Qué parámetro del maestro de materiales determina si se aprovisiona o produce?",
+    "options": [
+      "Grupo de compras",
+      "Clave de procesamiento",
+      "Clase de aprovisionamiento",
+      "Característica MRP"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "¿Cuál es el objeto de utiliza un PEP? (3 respuestas)",
+    "options": [
+      "Para programar tareas de almacén",
+      "Definir responsabilidades",
+      "Evaluar datos agregados",
+      "Gestionar equipo",
+      "Asignar presupuestos"
+    ],
+    "correctIndices": [
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "question": "¿Qué objetos pueden asignarse a un centro de beneficios? (2 respuestas)",
+    "options": [
+      "Posición de pedido de compras",
+      "Organización de ventas",
+      "Material",
+      "Posición de pedido de cliente"
+    ],
+    "correctIndices": [
+      2,
+      3
+    ]
+  },
+  {
+    "question": "¿Qué datos maestros de clase de actividad se usan para una asignación de actividad?",
+    "options": [
+      "Elemento PEP",
+      "Valor estadístico",
+      "Clase de coste",
+      "Orden CO"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "¿Qué elementos de una orden de mantenimiento se incluyen en una operación? (3 respuestas)",
+    "options": [
+      "Lista de objetos",
+      "Tiempo estándar",
+      "Puesto de trabajo",
+      "Clase de actividad",
+      "Norma de liquidación"
+    ],
+    "correctIndices": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "question": "¿Estructura jerárquica permitida en SAP S/4HANA?",
+    "options": [
+      "Sociedad PA asignada a sociedad",
+      "Sociedad CO asignada a centro",
+      "Sociedad PA asignada a sociedad CO",
+      "Sociedad CO asignada a sociedad PA"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "¿Qué documento se genera para una actividad de red externa?",
+    "options": [
+      "Orden de fabricación",
+      "Reserva",
+      "Solicitud de pedido",
+      "Pedido de cliente"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "¿Qué controla un puesto de trabajo? (2 respuestas)",
+    "options": [
+      "Valoración de componentes de lista de materiales",
+      "Disponibilidad de capacidad",
+      "Liberación de ordenes de fabricación",
+      "Calculo de costes del trabajo realizado"
+    ],
+    "correctIndices": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "¿Qué objeto informa sobre características de mercado (cliente, producto, región)?",
+    "options": [
+      "Organización de ventas",
+      "Centro de beneficios",
+      "Segmento",
+      "Objeto PA"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "¿Término para grupo de dependencias y actividades cronológicas en un proyecto?",
+    "options": [
+      "Hoja de ruta",
+      "Planificación del proyecto",
+      "Plan de la estructura del proyecto",
+      "Grafo"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "¿Qué aplicación muestra niveles actuales de stock, necesidades y entradas?",
+    "options": [
+      "Resumen del stock",
+      "Lista de requisitos de stock",
+      "MRP Live",
+      "Lista MRP"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "¿Qué transacciones abonan una orden de fabricación? (2 respuestas)",
+    "options": [
+      "Entrada de mercancías",
+      "Liquidación de la orden",
+      "Confirmación",
+      "Retirada de materiales"
+    ],
+    "correctIndices": [
+      0,
+      1
+    ]
+  },
+  {
+    "question": "¿Qué debe compartir una nueva sociedad con la sociedad CO del grupo? (2 respuestas)",
+    "options": [
+      "Variante de periodo contable",
+      "Variante del año fiscal",
+      "Plan de cuentas operativo",
+      "Moneda"
+    ],
+    "correctIndices": [
+      1,
+      2
+    ]
+  }
+]
